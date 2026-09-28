@@ -1,6 +1,6 @@
 # Azure Naming Generator
 
-**Live demo:** https://babug01.github.io/azure-naming-generator/
+**Live demo:** https://azure-naming-generator.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/azure-naming-generator/)
 
 Builds Azure resource names from Microsoft's Cloud Adoption Framework abbreviations —
 `<type>-<workload>-<env>-<region>-<instance>` — so you stop retyping the same naming-convention
